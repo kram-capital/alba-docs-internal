@@ -11,7 +11,7 @@ Please take a look at the official Tradingview documentation if you are unsure o
 ![](/assets/img/alba-docs-internal-1-init.png)
 
 Starting 
-:   Set the date the algorithm should begin
+:   Set the date and time that the algorithm should begin
 
 ===
 
