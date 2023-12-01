@@ -1,8 +1,8 @@
 input: .
 output: .retype
-url: https://AlbaTherium.github.io/alba-docs-INDICATOR-NAME/
+url: https://AlbaTherium.github.io/alba-docs-internal/
 branding:
-  title: INDICATOR-NAME
+  title: Internal Ranges Analysis
   label: Docs
   logo: /assets/img/albatherium-logo-small.svg
 links:
