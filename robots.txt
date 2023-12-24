@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AlbaTherium.github.io/alba-docs-internal/sitemap.xml.gz
